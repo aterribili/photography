@@ -2,19 +2,20 @@
 baseurl: "https://aterribili.github.io/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "UA-133561997-1"
 
 # UI configs
 title: "Photography by Abner Terribili"
-subtitle: "See the world through my eyes!"
+subtitle: ""
 author: "Abner Terribili"
 header:
  title: "Photography"
  subtitle: "by Abner Terribili"
 footer:
- name: "Hey there, my name is Ram"
- bio: "Developer at Nubank, cyclist and bird photgrapher"
+ name: "Abner Terribili"
+ bio: "Developer at Nubank, cyclist and bird photographer"
 web_design: "AJ"
 social_urls:
   twitter: "https://www.twitter.com/aterribili"
   github: "https://www.github.com/aterribili"
+  email: "abner.terribili@gmail.com"
